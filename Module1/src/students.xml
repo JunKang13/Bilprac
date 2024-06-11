@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    this is a sample xml file
+    version 1.0
+    date: 2024-6-11
+    author: kj
+-->
+<students>
+    <student id="001">
+        <name>John</name>
+        <age>18</age>
+        <gender>Male</gender>
+        <height>5.8</height>
+        <score>90</score>
+    </student>
+
+    <student id="002">
+        <name>Smith</name>
+        <age>19</age>
+        <gender>Male</gender>
+        <height>5.7</height>
+        <score>85</score>
+    </student>
+
+    <student id="003">
+        <name>Lucy</name>
+        <age>17</age>
+        <gender>Female</gender>
+        <height>5.5</height>
+        <score>95</score>
+    </student>
+</students>
